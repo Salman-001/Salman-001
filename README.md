@@ -1,4 +1,9 @@
-### Hi there 👋
+<h1> Hi there, I am Mohamad Salman</h1>
+
+<p>🏫I am currently a senior at the Lebanese American University studying compuer science<br>
+🎓I'm currently a student in my last year<br>
+👨🏻‍💻I'm interested in mobile and web developing<br>
+📫To contact me: moe.salman001@gmail.com</p>
 
 <!--
 **Salman-001/Salman-001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
