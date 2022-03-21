@@ -5,6 +5,10 @@
 👨🏻‍💻I'm interested in mobile and web developing<br>
 📫To contact me: moe.salman001@gmail.com</p>
 
+<br>
+
+<img align="left" alt="Salman-001's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Salman-001&show_icons=true&hide_border=true" />
+
 <!--
 **Salman-001/Salman-001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
