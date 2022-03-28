@@ -1,4 +1,4 @@
-<h1> Hi there, I am Mohamad Salman</h1>
+<h1>👋🏻 Hi there, I am Mohamad Salman</h1>
 
 <p>🏫Senior at the Lebanese American University studying compuer science<br>
 🎓I'm currently a student in my last year<br>
